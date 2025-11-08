@@ -1,1 +1,2 @@
-THIS IS A FILE 
+THIS IS A commiting file 1
+i am modifying it 
